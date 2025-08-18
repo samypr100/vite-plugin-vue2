@@ -1,3 +1,7 @@
+## [2.3.4-dev.0](https://github.com/samypr100/vite-plugin-vue2/compare/v2.3.3...v2.3.4-dev.0) (2025-08-17)
+
+
+
 ## [2.3.3](https://github.com/vitejs/vite-plugin-vue2/compare/v2.3.2...v2.3.3) (2024-11-26)
 
 
